@@ -1,4 +1,4 @@
-package com.oauth2.keycloak.spring.oauth2.Dto;
+package com.oauth2.keycloak.spring.oauth2.dto;
 
 import lombok.Data;
 
